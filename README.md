@@ -1,2 +1,2 @@
-# linux-scripts
-Linux Setup Scripts
+# linux-script
+Setup scripts to simplify my life
